@@ -1,0 +1,83 @@
+	1. 23.09 
+		#Erste Schultag in der Ausbildung [+]
+		#Azubi Ticket / Schülerticket [-+]
+		#Bringen alle Verträge [+]
+
+	2. 24.09
+		#14.10-18.10 wird ein Klausur sein [?]
+		#Ich sollte in Moodle die Kurs LF1 Abgabenkurs durch lesen [?]
+		#Ich sollte alle Daten herunterladen [?]
+
+		### LF_3_W
+		#Ganze links dazu:
+			- https://moodle.oszimt.de/course/view.php?id=6438
+			- https://moodle.oszimt.de/course/view.php?id=6067
+			- https://www.oszimt.de/ueber-uns/qualitaetsmanagement/leitbild-des-osz-imt
+
+		#Slogan (Spruch) 		[?]
+		#Vision			[?]
+		#Mission 			[?]
+		#Unternehmenskultur 	[?]
+		
+
+		#Leistungsziele
+			-Erhöhung des Marktanteils 
+			-Entwicklung neuer Serviceprodukte 
+			-Zertifizierte ziele 
+
+		
+		#Morgen sollen wir Formalezile formulieren
+		#Aufgabe: 
+			- Lesen über Formalziele 
+			- Lesen über Leistungsziele 
+			- Lesen über Führung und  Organisationsziele
+			- Lesen über Finanzziele 
+			- Lesen über Soziale und Ökologische Ziele  
+			- Wie sollen ein Präsentation über den Firma machen  (Zeit: Halbjahr)
+
+		### LF_3 
+		
+		# Server 
+			- Router 				[?]
+			- Switch 				[?]
+			- WAN, LAN 				[?]
+			- IP = Internet Protocol	[?]
+
+	
+		# Diensteanbieter
+			
+		# Dateiserver(Google Drive) 
+			- E-mail 
+			- Web serves (Webseiten line: google.de)
+		# Write in Terminal line 
+			[true] pink 8.8.8.8
+				# Es ist ein Resultat:
+					--- 8.8.8.8 ping statistics ---
+				49 packets transmitted, 49 packets received, 0.0% packet loss
+				round-trip min/avg/max/stddev = 11.981/19.905/96.376/12.765 ms
+
+
+		# Nic, Netzwerkkarte, 	Cat5  = 0,7 V	, LWL = 2000, WLAN  = 56Hz, Mikrowellen,
+						Cat6 = 100 Mbit. 
+						Cat7 = 10 Gbit.
+		
+		 
+		Das Ethernet IEEE 802.3 (Institute of Electrical and Electronics Engineers) [?]
+		
+		*** Wörter ***  
+			- Frame = Rahmen 
+			- Hashfunktion
+			- Das Ethernet
+			- OSI Schichten 
+
+		#Ganze links dazu:
+			- https://de.wikipedia.org/wiki/Hashfunktion
+			- https://aws.amazon.com/what-is/osi-model/#:~:text=The%20Open%20Systems%20Interconnection%20(OSI,across%20geographical%20and%20political%20boundaries.
+			- 
+
+		*** Aufgabe *** 
+			- Anwendung 7
+				....
+			- Netzwerk 3
+			- Data-Link 2 
+			- Psych 1
