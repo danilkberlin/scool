@@ -1,0 +1,45 @@
+#Dei Bilanz 
+
+
+Aktiv 
+	Anlagevermögen Betriebs- und Geschäftsausstattung 	9.370,00$
+
+	Umlaufvermögen Warenbestand Bankguthaben Kasse 		18.674$
+													23.831$
+													799,00$
+
+======================================================================================================================
+#Die Bilanz wird auf Grundlage der Inventur und Inventars erstellt 
+
+>> Worte  <<
+- Inventur
+- Inventars
+- Umlaufvermögen
+- Anlagevermögen
+- Langfrist
+- Schulden
+======================================================================================================================
+# Jedes Unternehmen hat Aufwendungen und Erträge 
+	° Aufwendungen 
+	° Erträge
+
+>> Worte  <<
+- Aufwendungen
+- Erträge
+======================================================================================================================
+#Alle Aufwendungen und Erträge werden im GuV - Konto zusammengeführt...
+
+	Der jeweilige Saldo ergibt den Gewinn oder Verlust 
+
+>> Worte  <<
+- Verlust
+- Saldo
+
+======================================================================================================================
+# Warum interessiert sich das Finanzministerium so sehr für Abschreibungen, dass es vorschreibt, über welchen Zeitraum ein Anlagegut abgeschrieben werden darf?
+*** Antwort ***
+
+>> Worte  <<
+-
+-
+======================================================================================================================
