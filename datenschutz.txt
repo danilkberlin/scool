@@ -1,0 +1,79 @@
+- Fall 2 Bußgeld wegen der unrechtmäßigen Verarbeitung
+			
+## Text ##
+Die spanische Datenschutzbehörde (AEPD) hat gegen die VODAFONE ESPAÑA, S.A.U. wegen der unrechtmäßigen Verarbeitung von personenbezogenen Daten ein Bußgeld Opens in new window in Höhe von insgesamt 56.000 EUR verhängt.
+
+Am 08.05.2022 reichte eine Kundin des Unternehmens eine Beschwerde bei der spanischen Behörde ein, da das Unternehmen ohne ihre Zustimmung Anrufe und SMS von ihrer Telefonnummer an eine unbekannte Nummer umgeleitet hatte. In Folge dieser Weiterleitung kam es zu einem Bankbetrug. Während der Untersuchung stellte sich heraus, dass das Unternehmen die Identität der Person, die die Umleitung beauftragt hatte, nicht ausreichend überprüft hatte.
+
+Die Vorgehensweise von Vodafone wurde von der Behörde als Verstoß gegen Art. 6 Abs. 1 DSGVO bewertet, der die Rechtmäßigkeit der Verarbeitung personenbezogener Daten regelt. Da das Unternehmen den Verstoß eingestanden hat, wurde das ursprüngliche Bußgeld von 70.000 EUR um 20% reduziert
+
+
+## Antworte
+	Das Problem bestand darin, dass Vodafone personenbezogene Daten ohne die ausdrückliche Zustimmung der betroffenen Kundin verarbeitet hat, indem Anrufe und SMS von ihrer Telefonnummer an eine unbekannte Nummer umgeleitet wurden. Dies stellt einen Verstoß gegen Art. 6 Abs. 1 DSGVO dar, der die Rechtmäßigkeit der Verarbeitung personenbezogener Daten regelt.
+
+
+//============= DSGVO =================//
+6. Ihre Rechte bei automatisierter Entscheidungsfindung im Einzelfall
+	Besondere Regelungen gelten, wenn auf Grundlage der über Sie vorhandenen Daten rein automatisierte Entscheidungen über Sie getroffen werden. Ein Beispiel: Ein Algorithmus prüft Ihre Bonität und entscheidet dann darüber, ob Sie einen Online-Kauf auf Rechnung tätigen können. Solche automatisierten Entscheidungen sind nur zulässig, wenn es zur Erfüllung eines Vertrages nötig ist oder Sie ausdrücklich eingewilligt haben. Empfinden Sie das Resultat dann als nicht zutreffend, können Sie solche automatisierten Entscheidungen anfechten. Sie haben das Recht, Ihren eigenen Standpunkt darzulegen und zu verlangen, dass die Entscheidung von einer Person überprüft wird.
+
+
+
+
+
+-Definitionen für Datenschutz.
+## Antworte 
+Datenschutz bedeutet den Schutz persönlicher Daten vor unbefugtem Zugriff und Missbrauch. Er stellt sicher, dass Daten nur rechtmäßig und mit Zustimmung der betroffenen Person verarbeitet werden, und gibt den Menschen Kontrolle über ihre eigenen Informationen.
+
+
+
+
+-Unterschied zwischen Datenschutz und Datensicherheit 
+
+Datenschutz und Datensicherheit unterscheiden sich in ihrem Fokus. Datenschutz bezieht sich speziell auf den Schutz personenbezogener Daten und gewährleistet, dass diese nur rechtmäßig und mit Zustimmung der betroffenen Personen verarbeitet werden. Dabei steht der Schutz der Privatsphäre im Vordergrund.
+
+Datensicherheit hingegen umfasst alle Daten, nicht nur personenbezogene. Ihr Ziel ist es, die Vertraulichkeit, Integrität und Verfügbarkeit von Daten zu gewährleisten. Das bedeutet, dass Daten vor unbefugtem Zugriff, Verlust oder Manipulation geschützt werden, unabhängig davon, ob sie persönlicher Natur sind oder nicht
+
+
+
+
+- Glossar
+
+#Datenschutz
+Datenschutz umfasst alle Maßnahmen und Gesetze, die den Schutz personenbezogener Daten gewährleisten. Ziel ist es, Missbrauch und unerlaubte Nutzung zu verhindern.
+
+#Datensicherheit
+Datensicherheit bezieht sich auf den Schutz von Daten vor unbefugtem Zugriff, Verlust oder Manipulation. Dies dient der Sicherstellung der Vertraulichkeit, Integrität und Verfügbarkeit von Informationen.
+
+#Vertraulichkeit
+Vertraulichkeit bedeutet, dass nur berechtigte Personen Zugriff auf sensible Daten haben. Dadurch wird verhindert, dass Unbefugte diese Informationen einsehen können.
+
+#Integrität
+Die Integrität von Daten bedeutet, dass sie vor unautorisierten Veränderungen geschützt sind. Dies stellt sicher, dass die Daten genau und vollständig bleiben.
+
+#Verfügbarkeit
+Verfügbarkeit bedeutet, dass Daten und Systeme für autorisierte Nutzer jederzeit zugänglich sind, wenn sie diese benötigen.
+
+#Verschlüsselung
+Verschlüsselung ist die Umwandlung von Informationen in einen Code, um sie vor unbefugtem Zugriff zu schützen. Nur mit einem speziellen Schlüssel können die Daten entschlüsselt werden.
+
+===============================> Fachworte <=====================================
+1. Bußgeld – Geldstrafe
+2. unrechtmäßige Verarbeitung – Verarbeitung ohne rechtliche Grundlage
+3. personenbezogene Daten – Informationen über eine bestimmte Person
+4. Beschwerde – Klage oder Reklamation
+5. Weiterleitung – Umleitung von Anrufen oder Nachrichten
+6. Bankbetrug – Täuschung, um an Geld von einer Bank zu gelangen
+7. Verstoß – Verletzung einer Regel oder eines Gesetzes
+8. Rechtmäßigkeit der Verarbeitung – Gesetzmäßigkeit der Datenverarbeitung
+9. automatisierte Entscheidungen – Entscheidungen, die durch Algorithmen getroffen werden
+10. Einwilligung – Zustimmung oder Erlaubnis
+11. Missbrauch – Falsche oder unrechtmäßige Verwendung
+12. Zustimmung – Einwilligung zu etwas
+13. Privatsphäre – Schutz der persönlichen Informationen
+14. Schutz – Maßnahmen zur Sicherheit
+15. Vertraulichkeit – Geheimhaltung von Informationen
+16. Integrität – Unveränderte und genaue Daten
+17. Verfügbarkeit – Zugang zu Daten bei Bedarf
+18. Verschlüsselung – Codierung von Informationen, um sie zu schützen
+19. unbefugter Zugriff – Zugang ohne Berechtigung
+20. Verarbeitung – Bearbeitung oder Nutzung von Daten
